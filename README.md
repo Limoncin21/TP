@@ -1,3 +1,3 @@
 # TP
 Tecnología de la programación.
-Prácticas de la asignatura, segundo cuatrimestre.
+Prácticas de la asignatura.
